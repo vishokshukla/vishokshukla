@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishokshukla
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Android Development, Web Development, Python.
-- 💞️ I’m looking to collaborate on Web Design.
+- 👀 I’m interested in Data Science & Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Web Design and Java Developement.
 - 📫 How to reach me Mail: "vishok.bhumca19@gmail.com"
 
 <!---
