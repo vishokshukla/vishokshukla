@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 
-![Vishok's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishokshukla\&show_icons=true\&theme=radical)
+[Vishok's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishokshukla\&show_icons=true\&theme=radical)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: ([Vishok Shukla](https://www.linkedin.com/in/vishok-shukla/))
+* 💼 LinkedIn: [Vishok Shukla](https://www.linkedin.com/in/vishok-shukla/)
 * 📧 Email: [Vishok Shukla](vishok.bhumca19@gmail.com)
 * 🌐 Portfolio: [Vishok Shukla]()
 
