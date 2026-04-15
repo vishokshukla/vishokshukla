@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishok Shukla
 
-💻 Backend Developer | Java | Spring Boot | Microservices
+💻 Backend Developer | Java | Spring Boot | Microservices 
 🚀 Passionate about building scalable systems and learning modern DevOps tools
 
 ---
@@ -66,7 +66,7 @@
 
 * 💼 LinkedIn: [Vishok Shukla](https://www.linkedin.com/in/vishok-shukla/)
 * 📧 Email: [Vishok Shukla](vishok.bhumca19@gmail.com)
-* 🌐 Portfolio: [Vishok Shukla]()
+* 🌐 Portfolio: [Vishok Shukla](https://vishok-portfolio.vercel.app/)
 
 ---
 
